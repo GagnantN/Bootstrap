@@ -1,0 +1,22 @@
+
+.col-
+{
+  border: 1px solid white;
+}
+
+.bg-black
+{
+  background-color: black;
+  height: 40px;
+ 
+}
+.bg-yellows
+{
+  background-color: gold;
+  height: 40px;
+}
+.bg-orange
+{
+  background-color: orange;
+  height: 40px;
+}
